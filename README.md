@@ -11,9 +11,7 @@
  
  I am a current student at [Turing School of Software & Design](https://turing.edu/). Check out my projects pinned below.
 </div>
-
-
-
+<br></br>
 <div align="left">
              <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=hheyhhay&theme=cobalt&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
