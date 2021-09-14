@@ -1,4 +1,4 @@
-### Hello, I'm Hayley
+### 🤠 Howdy I'm Hayley 🤠
 
 I am an installation artist turned software developer passionate about making the web more beautiful and interactive. Some technologies I enjoy working with are ReactJS, JavaScript and currently learning TypeScript. I am excited to find ways to build engaging and creative spaces online. 🔮
 
