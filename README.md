@@ -16,14 +16,12 @@
              <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=hheyhhay&theme=cobalt&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 </div>
-<div align="right" valign='bottom'>
-   <br></br>
-   <br></br>
+
 Let's connect!
 
    Here's my [LinkedIn 🧬](https://www.linkedin.com/in/hayley-dixon/)  
   And my email 💌: [hdixon37@gmail.com](hdixon37@gmail.com) 
-</div>
+
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hheyhhay)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hheyhhay&layout=compact)](https://github.com/hheyhhay/github-readme-stats) -->
