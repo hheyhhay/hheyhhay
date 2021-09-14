@@ -3,7 +3,7 @@
 <h1 align="center"> 🤠 Howdy, I'm Hayley 🤠 </h1>
 
 <div align="right">
-            <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api?username=hheyhhay&theme=cobalt&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+ <img src="https://user-images.githubusercontent.com/78764587/133293897-9fd3cd3a-4c4a-43ca-aa47-841d0655236c.png" alt='design image' width="200px" align="right"/>
 </div>
 <div align="left">
   <p>I am an installation artist turned software developer, passionate about making the web more beautiful and interactive. Some technologies I enjoy working with are ReactJS, JavaScript and currently learning TypeScript. I am excited to find ways to build engaging and creative spaces online. </p>
@@ -15,17 +15,12 @@
 
 
 <div align="left">
- <img src="https://user-images.githubusercontent.com/78764587/133293897-9fd3cd3a-4c4a-43ca-aa47-841d0655236c.png" alt='design image' width="200px" align="left"/>
+             <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=hheyhhay&theme=cobalt&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
 </div>
-<div align="right">
- 
- 
- 
- 
- 
- 
- 
- 
+<div align="right" valign='bottom'>
+   <br></br>
+   <br></br>
 Let's connect!
 
    Here's my [LinkedIn 🧬](https://www.linkedin.com/in/hayley-dixon/)  
