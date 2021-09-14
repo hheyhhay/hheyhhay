@@ -4,7 +4,7 @@ I am an installation artist turned software developer passionate about making th
 
 Let's connect!
 [Here's my LinkedIn 🧬](https://www.linkedin.com/in/hayley-dixon/)
-[And my email 💌 hdixon37@gmail.com](hdixon37@gmail.com)
+And my email 💌: [hdixon37@gmail.com](hdixon37@gmail.com)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hheyhhay&theme=cobalt&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hheyhhay)](https://github.com/anuraghazra/github-readme-stats)
