@@ -9,8 +9,9 @@
 <div align="left">
   <p>I am an installation artist turned software developer, passionate about making the web more beautiful and interactive. Some technologies I enjoy working with are ReactJS, JavaScript and currently learning TypeScript. I am excited to find ways to build engaging and creative spaces online. </p>
 
- 
- I am a current student at [Turing School of Software & Design](https://turing.edu/). Check out my projects pinned below.
+I am a current Front End Developer Intern at [Shopify](shopify.com)
+
+I have my certificate in Front End Software Development from [Turing School of Software & Design](https://turing.edu/). Check out my projects pinned below.
 </div>
 <br></br>
 <div align="left">
